@@ -1,0 +1,1 @@
+emulator -avd Pixel_3a_XL_API_19 -writable-system -qemu -serial COM1
